@@ -1,0 +1,27 @@
+{
+  "name": "nailuscss-logotype",
+  "version": "1.0.0",
+  "description": "nailus logotypes (by nailusLabs: (Naïloth Esdras Nsounda Nsilulu))",
+  "keywords": [
+    "nailuscss",
+    "nailus-logotype",
+    "icon",
+    "logo",
+    "nailuslabs"
+  ],
+  "homepage": "https://github.com/nailuslabs/nailuscss-logotype#readme",
+  "bugs": {
+    "url": "https://github.com/nailuslabs/nailuscss-logotype/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nailuslabs/nailuscss-logotype.git"
+  },
+  "license": "MIT",
+  "author": "Naïloth Esdras Nsounda Nsilulu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
